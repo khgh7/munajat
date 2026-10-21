@@ -1,7 +1,7 @@
 {
   "name": "Munajat-e-Maqbool",
   "short_name": "Munajat",
-  "description": "Daily portions of Munajat-e-Maqbool, Arabic with English",
+  "description": "The complete Munajat-e-Maqbool: seven daily portions, Arabic with English, sources and notes",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
